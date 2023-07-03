@@ -1,4 +1,6 @@
-# TrabajoFinal
+# TrabajoFinal: Webscraping para obtener datos de Turismo en Lationamérica
+
+
 
 Objetivo:
 Desarrollar un sistema o plataforma que utilice técnicas de webscraping para recopilar información sobre destinos turísticos en el Latinoamérica. 
